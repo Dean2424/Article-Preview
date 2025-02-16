@@ -15,7 +15,7 @@ body {
 
 .article-preview-container {
     width: 730px;
-    margin: 5rem auto;
+    margin: 250px auto;
     box-shadow: 0px 40px 40px -10px rgba(201, 213, 225, 0.50);
     display: flex;
     align-items: center;
